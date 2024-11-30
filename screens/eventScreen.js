@@ -22,8 +22,8 @@ import { fetch } from '@react-native-community/netinfo';
 
 AWS.config.update({
   region: "us-east-2",
-  accessKeyId: "AKIA3CMCCMY6G2LNLUMH",
-  secretAccessKey: "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",
+  accessKeyId: "-",
+  secretAccessKey: "-",
   dynamoDbCrc32: false,
 });
 
