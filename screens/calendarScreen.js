@@ -16,8 +16,8 @@ const secret_access_key = process.env.AWS_SECRET_ACCESS_KEY;
 //in request body, specify query opperation
 AWS.config.update({
   region: "us-east-2",
-  accessKeyId: "AKIA3CMCCMY6G2LNLUMH",
-  secretAccessKey: "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",
+  accessKeyId: "-",
+  secretAccessKey: "-",
   dynamoDbCrc32: false,
 });
 
