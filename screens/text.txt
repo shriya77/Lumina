@@ -1,0 +1,5 @@
+{"content": "The Moon will located on the same side of the Earth as the Sun and will
+ not be visible in the night sky. This phase occurs at 12:49 UTC. This is the best 
+ time of the month to observe faint objects such as galaxies and star clusters because
+  there is no moonlight to interfere.", "image": "http://www.seasky.org/astronomy/assets/images/astrocal01.jpg",
+   "title": "New Moon"}
